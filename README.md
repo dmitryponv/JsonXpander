@@ -5,4 +5,6 @@ Reads a Json file deserialized with http://json2csharp.com/#
 
 Creates an indexed set of buttons to navigate through the Json file
 
+See  	JsonViewer.png in the project
+
 Useful to plotting and displaying data from very large Json data files
